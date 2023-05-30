@@ -1,7 +1,7 @@
 import random
 
 options = ["rock", "paper", "scissors"]
-#			0		1		 2
+#rock 0, paper 1, scissors 2
 choices = options[:]
 
 # Which option beats which
